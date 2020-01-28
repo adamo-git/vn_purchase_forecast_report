@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+access_admin_purchase_forecast,purchase_forecast,purchase.model_purchase_order,group_admin,1,1,1,1
+
+access_admin_purchase_requisition_report,purchase_purchase_requisition_report,model_purchase_requisition_report,group_admin,1,1,1,1
+
+
